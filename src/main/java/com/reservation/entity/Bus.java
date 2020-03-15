@@ -28,10 +28,7 @@ public class Bus {
 	public void setId(Integer id) {
 		this.id = id;
 	}
-
 	
-	
-
 	public BusDetails getBusDetails() {
 		return busDetails;
 	}
